@@ -1,0 +1,1 @@
+This system provides an employee management platform where employees can log in, mark their attendance, and submit leave requests. Admins have full control to view leave statuses, and manage employee accounts.
